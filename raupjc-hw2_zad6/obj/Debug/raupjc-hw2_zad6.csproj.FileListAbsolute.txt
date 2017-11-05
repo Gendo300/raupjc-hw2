@@ -1,0 +1,7 @@
+C:\Users\Rudic\Documents\Eugen\VS2017\RaupjcHw2\raupjc-hw2_zad6\bin\Debug\raupjc-hw2_zad6.exe.config
+C:\Users\Rudic\Documents\Eugen\VS2017\RaupjcHw2\raupjc-hw2_zad6\bin\Debug\raupjc-hw2_zad6.exe
+C:\Users\Rudic\Documents\Eugen\VS2017\RaupjcHw2\raupjc-hw2_zad6\bin\Debug\raupjc-hw2_zad6.pdb
+C:\Users\Rudic\Documents\Eugen\VS2017\RaupjcHw2\raupjc-hw2_zad6\obj\Debug\raupjc-hw2_zad6.csprojResolveAssemblyReference.cache
+C:\Users\Rudic\Documents\Eugen\VS2017\RaupjcHw2\raupjc-hw2_zad6\obj\Debug\raupjc-hw2_zad6.csproj.CoreCompileInputs.cache
+C:\Users\Rudic\Documents\Eugen\VS2017\RaupjcHw2\raupjc-hw2_zad6\obj\Debug\raupjc-hw2_zad6.exe
+C:\Users\Rudic\Documents\Eugen\VS2017\RaupjcHw2\raupjc-hw2_zad6\obj\Debug\raupjc-hw2_zad6.pdb

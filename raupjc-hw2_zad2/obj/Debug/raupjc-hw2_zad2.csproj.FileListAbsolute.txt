@@ -1,0 +1,10 @@
+C:\Users\Rudic\Documents\Eugen\VS2017\RaupjcHw2\raupjc-hw2_zad2\bin\Debug\raupjc-hw2_zad2.dll
+C:\Users\Rudic\Documents\Eugen\VS2017\RaupjcHw2\raupjc-hw2_zad2\bin\Debug\raupjc-hw2_zad2.pdb
+C:\Users\Rudic\Documents\Eugen\VS2017\RaupjcHw2\raupjc-hw2_zad2\bin\Debug\ruapjc-hw2.dll
+C:\Users\Rudic\Documents\Eugen\VS2017\RaupjcHw2\raupjc-hw2_zad2\bin\Debug\ruapjc-hw2.pdb
+C:\Users\Rudic\Documents\Eugen\VS2017\RaupjcHw2\raupjc-hw2_zad2\bin\Debug\Zadatak3.pdb
+C:\Users\Rudic\Documents\Eugen\VS2017\RaupjcHw2\raupjc-hw2_zad2\bin\Debug\Zadatak3.exe.config
+C:\Users\Rudic\Documents\Eugen\VS2017\RaupjcHw2\raupjc-hw2_zad2\obj\Debug\raupjc-hw2_zad2.csprojResolveAssemblyReference.cache
+C:\Users\Rudic\Documents\Eugen\VS2017\RaupjcHw2\raupjc-hw2_zad2\obj\Debug\raupjc-hw2_zad2.csproj.CoreCompileInputs.cache
+C:\Users\Rudic\Documents\Eugen\VS2017\RaupjcHw2\raupjc-hw2_zad2\obj\Debug\raupjc-hw2_zad2.dll
+C:\Users\Rudic\Documents\Eugen\VS2017\RaupjcHw2\raupjc-hw2_zad2\obj\Debug\raupjc-hw2_zad2.pdb
